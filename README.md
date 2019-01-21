@@ -1,7 +1,7 @@
-Test
+テスト
 
-This is test of txgh.
+これはtxghのテストです。
 
-The pull request is open.
+プルリクエストは開かれています。
 
-Please note the branch name.
+ブランチ名に注意してください。
