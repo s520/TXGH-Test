@@ -1,19 +1,19 @@
 ---
-title: Developing for openBVE
-linktitle: Home
+title: openBVE デベロッパーズマニュアル
+linktitle: ホーム
 ---
 
-Please select a topic from the menu on the left side.
-
----
-
-Examples may be found in the 'Examples' folder.
+左側にあるメニューの中から、トピックを選択してください。
 
 ---
 
-Please note that some of these pages are still under construction. This applies to the following pages:
+サンプルは 'Examples' フォルダにあります。
 
-- The X object - 1% complete
-- The CSV route - 98% complete
+---
 
-Transifex update test
+いくつかのページはまだ作業中ですので注意してください。以下のページが該当します:
+
+- The X object - 1% 完了
+- The CSV route - 98% 完了
+
+Transifexへのアップロードテスト
