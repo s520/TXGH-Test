@@ -16,4 +16,4 @@ linktitle: ホーム
 - The X object - 1% 完了
 - The CSV route - 98% 完了
 
-Transifex update test
+Transifexへのアップロードテスト
