@@ -1,5 +1,5 @@
 ---
-title: "情報"
+title: "Information"
 weight: 6
 layout: "hidden"
 ---
